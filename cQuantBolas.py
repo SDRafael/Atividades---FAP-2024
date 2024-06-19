@@ -7,7 +7,7 @@ def calcQuant(x,y):
 """comprimentoDep = float(input("Comprimento do deposito"))
 alturaDep = float(input("Altura do deposito"))
 larguraDep = float(input("Largura do deposito"))"""
-deposi = float(input("Comprimento do deposito em cm³: "))
+deposi = float(input("Comprimento do deposito em cm³: ")) #Optei por manter a entrada do volume total ao invés de cada medida das arestas do depósito
 
 #aqui ponho como padrão tipos de bolas e seus volumes em variáveis inteiras
 basqueteA = 24
